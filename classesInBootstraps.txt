@@ -1,0 +1,31 @@
+
+container->
+
+width->1140px
+page center
+
+/////////////////////////////////////////////////////
+
+
+container-fluid->
+
+100% width
+
+/////////////////////////////////////////////////////
+
+
+BREAK POINTS+>                                            container width
+
+Extra-large        ->    (>=1200px)                            1140px    
+Large              ->    (>=992)                               960px
+Medium             ->    (>=768)                               720px
+Small              ->    (>=576)                               540px
+Extra Small        ->    (<=576px)                             Auto
+
+
+/////////////////////////////////////////////////////
+
+
+
+
+

@@ -1,0 +1,8 @@
+
+
+12 grids in one row
+
+col-1 col-2 ..................col-12
+
+
+col width ratio is maintained in any costs//

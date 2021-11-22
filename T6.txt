@@ -1,0 +1,7 @@
+
+
+extra large       offset-xl-
+large             offset-lg-
+medium            offset-md-
+small             offset-sm-
+extra small          -

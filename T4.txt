@@ -1,0 +1,9 @@
+
+
+//Col classes
+
+col-xl              extra large
+col-lg              large
+col-md              medium
+col-sm              Small
+---                 extra small
