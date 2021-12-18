@@ -1,0 +1,49 @@
+
+
+
+#navbar ul{
+    list-style:none;
+    float:right;
+    padding: 15px 12px;
+
+   
+
+}
+
+#navbar ul li{
+    
+    display:inline-block;
+
+}
+
+#navbar ul li a{
+    
+    font-size :20px;
+    text-decoration:none;
+    color:white;
+}
+
+#sidebar
+{
+    background-color: yellow;
+}
+
+#navbar
+{
+    background-color: yellow;
+}
+
+#sidebar
+{
+    background-color: yellow;
+}
+
+#lf_bar
+{
+    background-color:pink;
+}
+
+#lf_lf_bar
+{
+    background-color:aqua;
+}
